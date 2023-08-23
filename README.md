@@ -1,15 +1,1 @@
-- 👋 Hi, I’m @neerajtiwar
-**Site Reliability Engineer/Devops Engineer**
- - 10+ years experience in:
-- Experience in highly available infrastructure based on cloud and on-premise infrastructures.
-- Experience in designing or implementing microservices architecture with containerization tools like Docker and
-Kubernetes.
-- Proficient in automation tools like Ansible/Consul/Terraform. Automate day-to-day tasks, server provisioning,
-configuration management, service management and managing AWS resources.
-- Strong experience in Python, and in depth knowledge of Devops/SRE practices including knowledge of ditributed
-systems like kafka,elasticsearch, haadoop etc.
-
-<!---
-neerajtiwar/neerajtiwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi I'm Site Reliability Engineer extensive industry experience in a successful career with diverse roles distinguished by commended performance and proven results in different technology domains. Strong experience working on Cloud along with implementing micro services from scratch, working on complex infrastructure solution designs, love working on python, distributed systems and troubleshooting complex issues.I possess exceptional interpersonal skills and thrive in cross-functional, collaborative environments. I am adept at building strong relationships with stakeholders, fostering effective communication, and mentoring junior team members to empower them to reach their full potential. I love music, spending time with my daughter and going on long drives with my BMW ;)
